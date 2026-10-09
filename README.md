@@ -20,6 +20,11 @@ This dataset tracks user engagement, hardware utilization, billing mechanisms, a
 - Regional & Demographic Dynamics: Which geographic markets and age cohorts represent the highest retention or attrition risk?
 - Payment Gateway Friction: Does payment method (e.g., Crypto, Gift Card vs Credit/Debit) impact customer lifetime value?
 
+- ## Dashboard interactive 
+
+<img src="[https://github.com/riya1234000/Netflix-Customer-Churn-Engagement-Analytics/blob/main/Netflix-Customer-Churn-Engagement-Analytics%20(2).png]" alt="Image Description" width="1000">
+
+
 
 # Process
 
